@@ -9,6 +9,6 @@ public class HomeController {
 	@GetMapping
 	@ResponseBody
 	public String main() {
-		return "hello world!";
+		return "hello world!!";
 	}
 }
